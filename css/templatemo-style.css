@@ -57,7 +57,7 @@ p
 {
  	font-style: normal;
   	font-weight: 700;
-  	color: #45489a;
+  	color: #0D4F8B;
 }
 
 .section-heading p 
@@ -74,7 +74,7 @@ p
 {
   	font-size: 13px;
   	font-weight: 600;
-  	color: #45489a;
+  	color: #0D4F8B;
   	text-transform: capitalize;
   	background-color: #fff;
   	display: inline-block;
@@ -88,7 +88,7 @@ p
 
 .white-button a:hover 
 {
-  	background-color: #45489a;
+  	background-color: #0D4F8B;
   	color: #fff;
 }
 
@@ -98,7 +98,7 @@ p
   	font-weight: 600;
   	color: #fff;
   	text-transform: capitalize;
-  	background-color: #45489a;
+  	background-color: #0D4F8B;
   	display: inline-block;
   	height: 44px;
   	line-height: 44px;
@@ -111,7 +111,7 @@ p
 .accent-button a:hover 
 {
   	background-color: #fff;
-  	color: #45489a;
+  	color: #0D4F8B;
 }
 
 header 
@@ -216,7 +216,7 @@ header
   	width: 100%;
   	height: 140px;
   	line-height: 100px;
-  	background-color: #45489a;
+  	background-color: #0D4F8B;
   	padding: 20px;
   	text-align: center;
 }
@@ -335,7 +335,7 @@ header
 }
 
 .sidebar-navigation .social-icons li a:hover {
-  color: #45489a;
+  color: #0D4F8B;
 }
 
 
@@ -513,7 +513,7 @@ header
 }
 
 #featured .owl-dots .active span {
-  background-color: #45489a!important;
+  background-color: #0D4F8B!important;
 }
 
 #featured .owl-dots button {
@@ -549,7 +549,7 @@ header
 }
 
 #featured .owl-nav span:hover {
-  background-color: #45489a;
+  background-color: #0D4F8B;
   color: #fff;
 }
 
@@ -763,7 +763,7 @@ header
   height: 90px;
   width: 100%;
   background-color: #eee;
-  border-bottom: 10px solid #45489a;
+  border-bottom: 10px solid #0D4F8B;
 }
 
 #blog .tabs li {
@@ -789,7 +789,7 @@ header
 }
 
 #blog .tabs a:hover {
-  color: #45489a;
+  color: #0D4F8B;
 }
 
 
@@ -798,7 +798,7 @@ header
 }
 
 #blog .tabs .active {
-  background-color: #45489a;
+  background-color: #0D4F8B;
   color: #fff;
 }
 
